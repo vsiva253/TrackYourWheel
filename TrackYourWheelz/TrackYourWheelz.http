@@ -1,0 +1,6 @@
+@TrackYourWheelz_HostAddress = http://localhost:5121
+
+GET {{TrackYourWheelz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
